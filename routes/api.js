@@ -1,5 +1,5 @@
 const fs = require('fs');
-const uuid = require('../helpers/uuid')
+const uuid = require('../utils/uuid')
 
 module.exports = app => {
     let notes;

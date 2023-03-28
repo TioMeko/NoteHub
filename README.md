@@ -12,7 +12,7 @@ NoteHub is a simple note-taking tool that allows the user to enter notes to sche
 
 ## Website Showcase
 
-### <ins>[NoteHub]()</ins>
+### <ins>[NoteHub](https://boiling-citadel-94619.herokuapp.com/)</ins>
 
 ![App front page](./assets/noteTaker_1.PNG)
 ![App home page](./assets/noteTaker_2.PNG)
